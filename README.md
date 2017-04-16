@@ -1,4 +1,4 @@
-# README
+# READ HERE FOR MORE INFO:
 
 A simple [PowerShell Script Module][script_module] boilerplate.
 
